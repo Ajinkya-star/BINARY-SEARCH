@@ -1,4 +1,4 @@
-# BINARY-SEARCH
+# SEARCHING
 ## AIM: To search the integer entered by user in a user defined array using binary search.
 ## ALGORITHM:
 1) START
